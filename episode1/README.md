@@ -1,1 +1,1 @@
-Creating, Setting up and getting the bot into the discord
+# Creating, Setting up and getting the bot into the discord
